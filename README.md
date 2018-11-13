@@ -37,6 +37,6 @@ When you've finished your homework, all you have to do is get it online.  To do 
         - what was a win you had with this assignment?
         - what was a challenge you had with this assignment?
         - other stuff on your mind? work with anyone?  tell us about it!
-    ![submit](https://imgur.com/JImHOWn.png)
+    ![submit](https://i.imgur.com/ni3LWg7.png)
     - Click `Create Pull Request` to submit your work!
     
