@@ -28,7 +28,7 @@ When you've finished your homework, all you have to do is get it online.  To do 
 
 - In your browser, go to your repo for the homework. You should now see all of your completed homework there.  Once you confirmed you're homework is online, you can:
     - Start a new pull request. **Pull requests** let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. We will be using pull requests to submit homework. First, click here: 
-    ![pull](https://i.imgur.com/twEJgmM.png)
+    ![pull](https://i.imgur.com/phyB0kE.png)
     - Then, make sure you are comparing the correct repos. The **base** _(first repo)_ should reference the homework assignment. The **head** _(second repo)_ should reference the work you completed.
     ![pull](https://i.imgur.com/ImcQvx0.png)
     - Fill out your submission. When submitting, include the following:
