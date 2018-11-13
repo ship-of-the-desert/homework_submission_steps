@@ -10,7 +10,7 @@ Follow these steps when you begin a homework.
 
 *  Go to the forked version attached to **your** Github and clone to desktop.  You'll know you're on the right page if it says "forked from" in the upper left corner. **MAKE SURE YOU ARE WORKING ON YOUR OWN FORK BEFORE ANYTHING** Click the "clone button" in the top right to reveal the HTTPS key.  In the command line, navigate to the directory where you want your homework to live.  Once you are there, do the command `git clone [_paste https key_]`.  This will pull all of the information from your remote(browser) repo to a local version of it on your desktop.
 
-![clone](https://imgur.com/a/yrFcEDA)
+![clone](https://i.imgur.com/ll7qjYD.png)
 
 *  Do your homework.
 
