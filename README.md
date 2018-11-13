@@ -10,7 +10,7 @@ Follow these steps when you begin a homework.
 
 *  Go to the forked version attached to **your** Github and clone to desktop.  You'll know you're on the right page if it says "forked from" in the upper left corner. **MAKE SURE YOU ARE WORKING ON YOUR OWN FORK BEFORE ANYTHING** Click the "clone button" in the top right to reveal the HTTPS key.  In the command line, navigate to the directory where you want your homework to live.  Once you are there, do the command `git clone [_paste https key_]`.  This will pull all of the information from your remote(browser) repo to a local version of it on your desktop.
 
-![clone](https://imgur.com/yrFcEDA.png)
+![clone](https://i.imgur.com/yrFcEDA.png)
 
 *  Do your homework.
 
@@ -28,9 +28,9 @@ When you've finished your homework, all you have to do is get it online.  To do 
 
 - In your browser, go to your repo for the homework. You should now see all of your completed homework there.  Once you confirmed you're homework is online, you can:
     - Start a new pull request. **Pull requests** let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. We will be using pull requests to submit homework. First, click here: 
-    ![pull](https://imgur.com/twEJgmM.png)
+    ![pull](https://i.imgur.com/twEJgmM.png)
     - Then, make sure you are comparing the correct repos. The **base** _(first repo)_ should reference the homework assignment. The **head** _(second repo)_ should reference the work you completed.
-    ![pull](https://imgur.com/uAApY8Z.png)
+    ![pull](https://i.imgur.com/uAApY8Z.png)
     - Fill out your submission. When submitting, include the following:
         - on a scale from 1 to 5, how complete is this homework?
         - on a scale from 1 to 5, how comfortable were you with this assignment?
